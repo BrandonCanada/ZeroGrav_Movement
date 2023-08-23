@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{47F8C4D9-464A-5ED4-1F67-F383BD4D30D1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ZeroGrav_Movement",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

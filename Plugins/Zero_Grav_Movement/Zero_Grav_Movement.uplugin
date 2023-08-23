@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Zero_Grav_Movement",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Brandon Canada",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Zero_Grav_Movement",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
